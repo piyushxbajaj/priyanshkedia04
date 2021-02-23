@@ -5,11 +5,13 @@
 
 
 <p align="center"> <samp>
-  
  <code>
- Student at Delhi Technological University | Expertise in Machine Learning, Deep Learning & Artificial Intelligence | Python Developer | Research Student
-  
+ Student at Delhi Technological University | Expertise in Machine Learning, Deep Learning & Artificial Intelligence |</code>
+<p> <p align="center">
+ <code>| Python Developer | Research Student |
   </code>
+  </p>
+
   
   
 ## Skills :computer:
